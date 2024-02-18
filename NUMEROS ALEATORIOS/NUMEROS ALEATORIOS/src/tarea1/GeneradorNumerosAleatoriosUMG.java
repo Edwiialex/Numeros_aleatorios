@@ -3,6 +3,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 
+//edwiilopez
+
 public class GeneradorNumerosAleatoriosUMG {
     private static final int NUMERO_DE_NUMEROS = 1000000;
     private static final int RANGO_MINIMO = -10000000;
